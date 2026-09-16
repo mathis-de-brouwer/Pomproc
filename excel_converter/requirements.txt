@@ -1,0 +1,5 @@
+# Boma -> Pomproc ETL dependencies
+pandas>=2.0
+openpyxl>=3.1
+lxml>=4.9
+xlrd>=2.0          # only needed for genuine legacy .xls (OLE2) inputs
